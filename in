@@ -1,0 +1,12 @@
+7
+S A B C D E F
+4
+[ ( ) ]
+S->SS|AB|AC|DE|DF
+C->SB
+F->SE
+A->(
+B->)
+D->[
+E->]
+([])[]

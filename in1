@@ -1,0 +1,8 @@
+3
+S A C
+2
+a b
+S->AS|SS|a
+A->AA|AC|a|b
+C->CC|AA|SA|b
+aabbaa

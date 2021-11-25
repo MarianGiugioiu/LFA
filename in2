@@ -1,0 +1,15 @@
+10
+Y A B C D E X S Z T
+3
+a b c
+S->XC|YA|TD
+A->EA|c
+B->a
+C->b
+D->BD|a
+E->c
+X->ZC
+Y->EE
+Z->BS
+T->CC|a
+cc
